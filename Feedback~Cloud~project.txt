@@ -1,0 +1,20 @@
+TITLE: FEEDBACK ON THE CLOUD PROJECTS
+
+NUMBER 1:
+Complete of 10-15 selected hands-on labs on Qwiklabs and submitting proof of such per screenshot based on the email received.
+
+The completion of the 10-15 selected hands-on labs on Qwiklabs was done pretty well and the comletion of most labs is 100% so kudos on the good work done mate.
+The only way is see a difference in your work is that personally my work was based on every project i did and provided a proof through a screenshot from the email
+Qwiklabs provide us with when a lab is completed. Then also i had my images in a folder and submitted.
+
+The README files are awesome..gives a clear explanation of the work done and the person going through your work can get it clearly what you mean and the way 
+something worked for you.
+
+The proof provided is convincing...Good luck with the journey to be a cloud engineer.
+
+NUMBER 2:
+
+“Translation” of 2-3 selected labs from Console instructions to 100% command line instructions.
+
+I think in tackling the second challenge..you didn't give a well explained translation off 2-3 translated labs. Mr George Udeson explained the way to do it well
+via his youtube channel. I think you should check it out to do it the right way. Otherwise all the best mate
